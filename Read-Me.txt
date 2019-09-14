@@ -1,1 +1,1 @@
-This is sample Spark project
+This is sample Apache Spark project 
