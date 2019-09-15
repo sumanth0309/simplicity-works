@@ -18,7 +18,7 @@ Apache Spark Installation
 	
 Running Word Count Program
 	•To start working with spark. You can run a basic data analysis program “WordCount”using Spark.
-	•Open command prompt and run command : spark-submit wordCount.py
+	•Open command prompt and run command : spark-submit WordCount.py
 	•If you face any issue related to finding file path .Adjust the code in wordCount.py 
 		linesRdd = sc.textFile("relativeFilePath\Book.txt")
 
